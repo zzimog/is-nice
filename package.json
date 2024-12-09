@@ -5,14 +5,8 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zzimog/is-nice"
+    "url": "git+https://github.com/zzimog/is-nice.git"
   },
-  "keywords": [
-    "nice",
-    "69",
-    "420",
-    "meme"
-  ],
   "author": "zzimog",
   "license": "WTFPL"
 }
