@@ -1,5 +1,5 @@
 {
-  "name": "is-nice",
+  "name": "@zzimog/is-nice",
   "version": "1.0.0",
   "description": "Dependencies-free checker for nice arguments",
   "main": "index.js",
