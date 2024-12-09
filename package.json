@@ -1,12 +1,18 @@
 {
   "name": "is-nice",
   "version": "1.0.0",
-  "author": "zzimog",
-  "description": "",
-  "keywords": ["nice", "69", "420", "meme"],
+  "description": "Dependencies-free checker for nice arguments",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zzimog/is-nice"
   },
+  "keywords": [
+    "nice",
+    "69",
+    "420",
+    "meme"
+  ],
+  "author": "zzimog",
   "license": "WTFPL"
 }
